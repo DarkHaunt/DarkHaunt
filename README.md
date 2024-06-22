@@ -1,6 +1,6 @@
 # Hello! 👋
 
-## My name Yaroslav, i'm 19 y.o. student from Kyiv 📚
+## My name Yaroslav, i'm 20 y.o. student from Kyiv 📚
 
 ### Working in 🕹️ [PSV Games]  🕹️
 
