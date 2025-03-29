@@ -1,11 +1,19 @@
-# Hello! 👋
+# Hello! 👋  
 
-## My name Yaroslav, i'm 20 y.o. student from Kyiv 📚
+## My name is Yaroslav, a Unity Developer from Kyiv 🎮  
 
-### Working in 🕹️ [PSV Games]  🕹️
+### Working in 🕹️ [PSV Games]  
 
-### I'm trying my best in game development! 🎮 🕹
+### Experienced in mobile game development with 3+ years of commercial experience 🚀  
 
-### Working with Unity3D ⚙️🛠
+- Taked part in developing multiple published projects with over 10M+ downloads 📱    
+- Expertise in Unity + C#, Design Patterns, OOP, ECS & SOLID principles 🏗️  
+- Worked with Ad SDKs (AdInMo, Gadsme, Unity Ads, Google AdMob, CAS) 📢  
+- Integrated IAP, Firebase, Google Analytics, and CI/CD pipelines ⚙️  
+- Familiar with Scrum & Kanban methodologies for efficient teamwork 🏆  
+- Experienced with Addressables, Zenject, UniRx, Entitas ECS, Photon Fusion 🌐  
 
-### You can contact me with my email 📧: yaroslavkyzyk@gmail.com
+### Projects & More:  
+🔗 [LinkedIn](https://www.linkedin.com/in/yaroslav-kyzyk-b014642a4)  
+
+📧 Contact me at: yaroslavkyzyk@gmail.com
